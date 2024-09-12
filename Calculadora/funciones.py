@@ -74,5 +74,5 @@ def factorial_B( numero ):
   return resultado
 
 
-
+factorial_B(3)
 
